@@ -14,6 +14,9 @@ body {
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
+
+  background-image: url(https://img.freepik.com/fotos-gratis/bela-foto-de-uma-floresta-com-arvores-verdes-altas_181624-20615.jpg?w=740&t=st=1700263710~exp=1700264310~hmac=fe526c643fda5ff95ffb5b898475800f3ea5da67e2f5fbef57e895c64b980a83);
+  background-repeat: no-repeat
 }
 
 h1 {
